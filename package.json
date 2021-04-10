@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/justinyates887/fitness-tracker-website/issues"
   },
-  "homepage": "https://github.com/justinyates887/fitness-tracker-website#readme"
+  "homepage": "https://github.com/justinyates887/fitness-tracker-website#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
 }
