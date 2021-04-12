@@ -11,7 +11,7 @@ app.use(express.static("public"));
 
 
 mongoose.connect(
-    process.env.URI || 'mongodb://localhost/workout',
+    'mongodb+srv://root:<password>@cluster0.3o0sd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
     {
       keepAlive: true,
       useNewUrlParser: true,
