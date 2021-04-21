@@ -1,5 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
+require('dotenv').config()
 
 const PORT = process.env.PORT || 3000;
 
@@ -10,8 +11,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 
-mongoose.connect(
-    'mongodb+srv://root:<password>@cluster0.3o0sd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+mongoose.connect(process.env.URI,
     {
       keepAlive: true,
       useNewUrlParser: true,
