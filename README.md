@@ -31,6 +31,6 @@ Visit [here](https://fitness-tracket-yates.herokuapp.com/?id=60872231e4fe7051544
 Justin Yates
 
 ## Demo
-![image](/demo/Capture.png)
-![image2](/demo/Capture2.png)
-![image3]([/demo/Capture3.png)
+![image](./demo/Capture.png)
+![image2](./demo/Capture2.png)
+![image3](./demo/Capture3.png)
