@@ -24,11 +24,11 @@ A fitness tracker website that will track your workout progress and save it to a
 
 ## <a name="Installation"></a>Installation
 
-Visit (here)[https://fitness-tracket-yates.herokuapp.com/?id=60872231e4fe7051544d0e2f]
+Visit [here](https://fitness-tracket-yates.herokuapp.com/?id=60872231e4fe7051544d0e2f)
 
 ## <a name="Contributors"></a>Contributors
 
 Justin Yates
-!(image)[demo/Capture.png]
-!(image2)[demo/Capture2.png]
-!(image3)[demo/Capture3.png]
+![image](demo/Capture.png)
+![image2](demo/Capture2.png)
+![image3]([demo/Capture3.png)
